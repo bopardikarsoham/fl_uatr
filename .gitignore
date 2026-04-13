@@ -1,9 +1,9 @@
 # Data only
-shipsear_fl/
-*.npz
+#shipsear_fl/
+#*.npz
 
 # Python cache
-__pycache__/
-*.pyc
-.DS_Store
-*.out
+#__pycache__/
+#*.pyc
+#.DS_Store
+#*.out
