@@ -1,0 +1,9 @@
+{
+  "lr": 0.0003046103655104655,
+  "weight_decay": 0.00017321767217417147,
+  "dropout": 0.3421413655978008,
+  "unfrozen_layers": 3,
+  "best_trial_f1": 0.9761761387347564,
+  "trial_number": 16,
+  "search_time_min": 108.4
+}

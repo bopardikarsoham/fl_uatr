@@ -1,0 +1,28 @@
+{
+  "mode": "centralized",
+  "num_total_samples": 2223,
+  "num_train_samples": 1778,
+  "num_test_samples": 445,
+  "test_ratio": 0.2,
+  "class_distribution_full": {
+    "0": 369,
+    "1": 301,
+    "2": 843,
+    "3": 486,
+    "4": 224
+  },
+  "class_distribution_train": {
+    "0": 295,
+    "1": 241,
+    "2": 674,
+    "3": 389,
+    "4": 179
+  },
+  "class_distribution_test": {
+    "0": 74,
+    "1": 60,
+    "2": 169,
+    "3": 97,
+    "4": 45
+  }
+}
