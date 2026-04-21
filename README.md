@@ -1,6 +1,6 @@
 # 🚢 Federated Learning for Underwater Acoustic Target Recognition (UATR)
 
-> **EECE 5643 — Distributed Machine Learning | Northeastern University | Spring 2026**  
+> **EECE 5643 — Simulation & Performance Evaluation | Northeastern University | Spring 2026**  
 > Team 6: Soham Bopardikar · Saunak Samantray · Krishna Prasad Selvaraj
 
 ---
